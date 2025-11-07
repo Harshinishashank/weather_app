@@ -33,7 +33,8 @@ It takes a city name as input and returns the current temperature.
      .venv\Scripts\activate
 
 3. ** Install dependencies **
-     Install dependencies
+     pip install requests python-dotenv
+
 
 4. ** Create a .env file **
       WEATHER_API_KEY=your_api_key_here
